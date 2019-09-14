@@ -1,0 +1,2 @@
+include ':enhancedprogressbarsample', ':enhancedprogressbar'
+rootProject.name='enhancedprogressbarproject'
